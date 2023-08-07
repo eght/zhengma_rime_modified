@@ -827,13 +827,11 @@ arc	殭	1220000	ar
 are	殖	3420000	ar
 arh	残	76800000	ar
 arj	殒	2080000	ar
-arj	殞	731000	ar
 ark	列	952000000	ar
 arl	殃	3220000	ar
 arm	歼	4400000	ar
 arm	殊	6890000	ar
 aro	殓	583000	ar
-aro	殲	655000	ar
 arq	㱚	5290	ar
 arq	殁	695000	ar
 arr	死	498000000	ar
@@ -851,10 +849,7 @@ ayi	虿	213000	ay
 aym	万	731000000	ay
 ayw	迈	44400000	wa
 aza	与	1300000000	az
-azi	㔿	4980	az
 azj	殆	9010000	ar
-azm	攷	672000	az
-azs	夨	174000	az
 azy	瓦	58500000	az
 baa	士	216000000	ba
 bad	圩	2610000	ba
@@ -879,8 +874,6 @@ bbv	圭	9360000	bb
 bby	邽	150000	bb
 bbz	圬	190000	bb
 bbz	坛	81100000	bb
-bbz	埡	539000	bb
-bch	㙊	4480	bc
 bco	堾	23400	bc
 bcq	埥	583000	bc
 bcx	趣	75400000	bc
@@ -905,13 +898,11 @@ bfb	堙	312000	bf
 bfd	塼	121000	bf
 bfe	壩	1210000	bf
 bff	塛	28400	bf
-bfk	埬	45100	bf
 bga	坯	2900000	bg
 bgb	垮	11500000	bg
 bgg	堧	157000	bg
 bgi	坏	105000000	bg
 bgm	垅	943000	bg
-bgo	項	106000000	bg
 bgo	项	494000000	bg
 bgs	㙇	4120	bg
 bgw	垯	233000	bw
@@ -938,10 +929,8 @@ biy	韦	22700000	by
 bjc	埕	1630000	bj
 bjd	㘻	4090	bj
 bjf	㙅	4520	bj
-bjg	頡	930000	bj
 bjg	颉	2240000	bj
 bjj	嘉	143000000	bj
-bjl	塤	84400	bj
 bjp	彭	37800000	bj
 bjq	埍	437000	bj
 bjr	袁	29600000	bj
@@ -952,9 +941,7 @@ bjw	迼	72700	wb
 bjy	郆	18200	bj
 bjz	㐖	4500	bj
 bka	坦	18800000	bk
-bka	場	230000000	bk
 bkb	埋	81500000	bk
-bkd	埘	834000	bk
 bkf	堁	85800	bk
 bkh	㙗	4110	bk
 bki	坤	33100000	bk
@@ -977,12 +964,8 @@ bld	埛	318000	bl
 bld	堈	152000	bl
 blj	堝	1920000	bl
 bll	圸	56300	bl
-bll	賣	88800000	bl
 blo	坝	14700000	bl
-blo	垻	244000	bl
-blo	埧	234000	bl
 blq	塴	37500	bl
-blr	垷	63600	bl
 bls	塄	237000	bl
 bma	垁	83200	bm
 bme	圲	24300	bm
@@ -995,8 +978,6 @@ bmo	攻	49300000	bm
 bmr	趱	314000	bm
 bmr	趲	37800	bm
 bmu	煮	49600000	bu
-bmx	䎞	3480	bx
-bmy	垖	43100	bm
 bmy	教	250000000	by
 bmy	都	1370000000	by
 bnc	堭	43600	bn
@@ -1022,7 +1003,6 @@ bok	替	60900000	bo
 bol	规	46000000	bo
 boo	巫	12900000	bo
 bop	趁	32700000	bo
-bop	趛	23600	bp
 bor	趍	43800	br
 bos	赵	99800000	bo
 bow	坽	37300	bo
@@ -1037,13 +1017,11 @@ bqa	穀	2530000	bw
 bqd	巩	9440000	bq
 bqe	鞏	743000	bq
 bqf	垛	2820000	bq
-bqi	堸	51300	bq
 bqq	堋	586000	bq
 bqs	坍	982000	bq
 bqw	恐	57900000	bq
 bqx	坄	29600	bq
 brd	圥	38800	br
-brg	頑	2950000	br
 brg	顽	7520000	br
 brh	坁	110000	br
 brj	坸	21800	br
@@ -1060,14 +1038,10 @@ brt	均	514000000	br
 brw	远	268000000	wb
 brx	趋	30100000	br
 bry	垉	83100	br
-brz	䲧	4140	br
-brz	趨	4170000	br
 bse	垶	942000	bs
-bsi	壠	54400	bs
 bsj	培	26800000	bs
 bsk	堷	51900	bs
 bsk	境	96300000	bs
-bsl	壞	24300000	bs
 bsm	熬	28200000	cy
 bso	坟	7250000	bs
 bsq	坑	29500000	bs
@@ -1075,7 +1049,6 @@ bsu	垃	150000000	bs
 bsy	坊	123000000	bs
 bsz	垓	602000	bs
 btg	圹	316000	bt
-btg	壙	253000	bt
 btr	趑	98100	bt
 btx	塘	31000000	bt
 btx	塶	53100	bt
@@ -1089,9 +1062,6 @@ bul	增	288000000	bu
 buo	夹	84700000	bu
 buo	灻	95700	bu
 buo	煮	49600000	bu
-buq	執	5610000	bu
-bus	赱	573000	bu
-buw	逹	480000	wb
 buw	達	175000000	wb
 buy	報	98800000	bu
 buy	郏	668000	bu
@@ -1099,7 +1069,6 @@ bvy	墚	55700	bv
 bwa	懿	5220000	bw
 bwa	殼	11800000	bw
 bwb	垸	323000	bw
-bwb	壼	325000	bw
 bwd	埞	313000	bw
 bwg	塚	6560000	bw
 bwk	壶	22100000	bw
@@ -1108,10 +1077,8 @@ bwq	壳	43600000	bw
 bwq	殻	7680000	bw
 bwr	坨	2250000	bw
 bwz	志	122000000	bw
-bxb	壽	13400000	bx
 bxi	坡	29500000	bx
 bxj	吾	34000000	bx
-bxk	墹	60000	bx
 bxl	堳	33900	bx
 bxm	声	391000000	bx
 bxo	垠	1110000	bx
@@ -1133,12 +1100,7 @@ byp	韬	3170000	by
 byw	逇	53000	wb
 byy	圮	713000	by
 byy	起	634000000	by
-bza	亞	48200000	bz
-bzb	堊	181000	bb
-bze	弆	122000	bz
 bzg	毐	231000	bz
-bzi	凷	33600	bz
-bzi	蝁	24600	bi
 bzj	坮	32400	bz
 bzl	盍	597000	bz
 bzm	互	96000000	bz
@@ -1147,9 +1109,7 @@ bzs	去	695000000	bz
 bzw	运	361000000	wb
 bzw	迲	171000	wb
 bzy	却	343000000	bz
-bzy	坶	102000	bz
 bzz	云	169000000	bz
-bzz	晉	4380000	bz
 cad	玗	104000	ca
 cag	奏	18400000	ca
 cai	玎	991000	ca
@@ -1157,32 +1117,27 @@ caj	珂	8840000	ca
 cbb	珪	1350000	cb
 cbi	奉	23400000	cb
 cbi	玒	135000	cb
-cbj	髻	2810000	cb
 cbm	琽	23200	cb
 cbn	耕	11400000	cb
 cbr	玩	372000000	cb
 cby	玮	6150000	cb
 cbz	㺮	4680	cb
 cbz	耘	2500000	cb
-cca	鬥	12200000	cc
 ccb	琫	45800	cc
 ccc	聶	1560000	cc
 cce	珥	1430000	cc
 ccf	琹	111000	cc
 cci	玤	26500	cc
-ccl	酆	652000	cy
 cco	琴	51300000	cc
 cco	瑃	38700	cc
 ccr	琵	2080000	cc
 ccs	珏	1910000	cc
-ccu	瑪	15900000	cc
 ccw	瑟	16600000	cc
 ccx	慧	69800000	cc
 ccy	瑘	28600	cc
 cds	寿	26600000	cd
 cdu	焘	416000	cd
 cdv	球	159000000	cd
-cea	璜	5940000	ce
 ceb	玵	60800	ce
 ceb	璂	51400	ce
 cec	琪	60300000	ce
@@ -1198,22 +1153,17 @@ cey	耶	62200000	cy
 cez	㻣	4600	ce
 cez	玴	101000	ce
 cez	耴	52800	cz
-cfb	驃	57200	cf
 cff	琳	44100000	cf
 cff	瑮	69900	cf
 cfj	㻋	4120	cf
 cfo	鬆	6310000	cf
 cfs	㺷	4030	cf
-cfw	璉	1330000	cw
 cga	㺽	4250	cg
 cga	琦	13900000	cg
-cga	騎	15200000	cg
 cgd	㺯	4070	cg
 cgd	耨	642000	cg
-cgd	馱	892000	cg
 cgi	环	210000000	cg
 cgm	珑	2370000	cg
-cgo	頊	69800	cg
 cgo	顼	425000	cg
 cgq	珛	1090000	cg
 cgs	㺴	3810	cg
@@ -1221,7 +1171,6 @@ cgs	琢	3790000	cg
 cha	珬	21900	ch
 chf	髤	19900	cf
 chi	玡	387000	ch
-chj	驅	3850000	ch
 chw	琏	936000	cw
 chy	珹	119000	ch
 chy	琊	1240000	ch
@@ -1231,13 +1180,10 @@ cig	砉	823000	cg
 cih	琥	2780000	ci
 cii	耻	19200000	ci
 cij	玷	496000	ci
-cik	驢	2090000	ci
-ciq	靑	2920000	cq
 ciq	青	242000000	cq
 cir	璨	19000000	ci
 ciw	璿	1050000	ci
 ciy	邦	49500000	cy
-ciy	酆	652000	cy
 ciz	素	134000000	cz
 cjc	珵	125000	cj
 cjc	聖	39400000	cj
@@ -1270,12 +1216,8 @@ clc	珇	179000	cl
 cld	㺾	4350	cl
 cle	琠	83800	cl
 clg	瑞	102000000	cl
-clk	駟	400000	cl
 cll	璎	453000	cl
-cll	瓔	705000	cl
 cln	璀	10100000	cl
-clo	珼	117000	cl
-clo	責	5750000	cl
 clo	责	183000000	cl
 clr	现	275000000	cv
 cly	耡	61000	cl
@@ -1287,12 +1229,10 @@ cmh	髦	1310000	cm
 cmi	聒	413000	cm
 cmk	珠	83800000	cm
 cmo	玫	15600000	cm
-cmr	瓚	707000	cm
 cmu	鬏	91100	cm
 cmv	珴	148000	cm
 cmx	琁	289000	cm
 cmy	琇	2310000	cm
-cna	璵	115000	cn
 cnb	舂	1130000	cn
 cnc	瑝	89900	cn
 cnd	玔	43400	cn
@@ -1303,29 +1243,22 @@ cni	琟	22300	cn
 cnj	珦	111000	cn
 cnj	瑰	3730000	cn
 cnk	珀	5270000	cn
-cnr	聰	5110000	cn
 cnw	璡	68300	cw
 coa	瑜	16400000	co
-coa	驗	5540000	co
 coc	㻇	4190	co
 coi	珩	2540000	co
-coo	駁	2360000	co
 cop	珍	37100000	co
 cos	琀	99800	co
 cou	㤗	4270	cu
 cow	玲	35400000	co
 coy	玢	265000	co
 cpa	瑗	1180000	cp
-cpg	鬚	2260000	cp
 cpk	璠	292000	cp
 cpm	瑶	14400000	cp
-cpw	璦	344000	cp
 cpy	珘	103000	cp
 cqa	三月	58400000
 cqd	玑	1070000	cq
 cql	靓	50000000	cq
-cql	靚	15300000	cq
-cqp	靜	25400000	cq
 cqq	㻚	3740	cq
 cqq	珊	18000000	cq
 cqr	静	98400000	cq
@@ -1349,16 +1282,12 @@ cry	玸	71900	cr
 cry	艳	64200000	cr
 crz	鳿	33800	cr
 csc	斑	31200000	cs
-csi	瓏	453000	cs
 csj	琣	60900	cs
-csk	職	41200000	cs
-csl	鬧	8930000	cs
 csm	璇	13600000	cs
 cso	玟	6400000	cs
 csu	滴	81600000	vs
 csu	耪	76900	cs
 csx	琅	3930000	cs
-csz	駭	5600000	cs
 ctg	㼅	5200	ct
 ctr	驥	930000	ct
 ctx	瑭	556000	ct
@@ -13461,7 +13390,6 @@ arep	列斯	2580000
 areq	死期	1100000
 arev	殒落	339000
 arev	歿世	7320
-arev	殞落	182000
 arev	殂落	8510
 arew	殊荣	3980000
 arex	列支	1260000
@@ -13481,9 +13409,7 @@ arfv	死要	965000
 arfx	残根	90400
 arfx	残雪	1340000
 arfx	列根	40800
-arfz	殲擊	13500
 arga	死硬	355000
-arga	殞石	24000
 argb	残压	80100
 argb	死磕	872000
 argi	残存	5520000
@@ -13524,7 +13450,6 @@ arji	裂嘴	391000
 arjj	残品	56200
 arjl	残喘	235000
 arjl	殒	2080000	ar
-arjl	殞	731000	ar
 arjl	殊勋	47200
 arjo	死囚	895000
 arjr	死路	2260000
@@ -13549,16 +13474,7 @@ arke	殊異	57100
 arkf	裂果	208000
 arkg	殧	154000	ar
 arkg	死光	1610000
-arkh	㱬	5950	ar
-arki	䶛	3720	ar
-arkk	㽝	4450	ar
-arkk	殭	1220000	ar
-arkl	㡂	5760	ar
-arkl	㱺	4570	ar
 arkl	殟	47300	ar
-arkl	殯	366000	ar
-arkm	殞星	8120
-arko	殥	329000	ar
 arkp	銐	26700	ar
 arkq	列明	1510000
 arkr	䴕	18600	ar
@@ -13624,11 +13540,9 @@ arnr	死你	14400000
 arns	列位	412000
 arns	死信	63800
 arns	殡仪	394000
-arnu	殯儀	69500
 arnx	残片	467000
 arnx	裂片	326000
 aroa	死命	2710000
-aroa	殞命	46500
 aroa	殒命	351000
 aroa	歹命	257000
 arob	歹徒	6630000
@@ -13728,8 +13642,6 @@ arva	列举	8230000
 arvb	死法	1630000
 arvf	残渣	1440000
 arvf	烈酒	1350000
-arvh	殞滅	6130
-arvh	殲滅	1510000
 arvk	残油	101000
 arvm	死活	6860000
 arvm	死海	1470000
