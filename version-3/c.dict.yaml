@@ -1,0 +1,40 @@
+﻿# encoding: utf-8
+# 四角號碼檢字法
+# 碼表自瑾昀得，由雪齋整理
+# 字集GB18030-2000，收27585字
+#
+#name: "four_corner_method"
+#全小数字键盘输入码
+#四角号码输入法
+#郑码调试版2023-07-25Tue
+name: "c"
+#name: "zhengma"
+version: "0.1"
+sort: original
+use_preset_vocabulary: true
+#max_phrase_length: 1
+import_tables:
+  - c.class-00   # 说明和单字编码 27,637
+  - c.class-01   # 五笔一级简码
+  - c.class-02   # 五笔二级简码
+  - c.class-03   # 五笔三级简码
+  - c.class-04   # 两字词组 159,783
+  - c.class-05   # 四字词组 139,863
+  - c.class-06   # 五字词组 38,597
+  - c.class-07   # 三字词组 120,716
+  - c.class-08   # 七字词组 3,764
+  - c.class-09   # 六字词组 23,355 个
+#  - c.class-10  # 八字词组   7,812个
+  - c.class-11  # 八字词组   7,812个
+  - c.class-12  # 八字词组   7,812个
+  - c.class-13  # 八字词组   7,812个
+  - c.class-14  # 八字词组   7,812个
+  - c.class-15  # 八字词组   7,812个
+  - c.class-16  # 八字词组   7,812个
+  - c.class-17  # 八字词组   7,812个
+#  - c.extended  # 测试用, 小于10行
+# 郑码调试版本
+#  - c.original  # 测试用, 小于10行
+#  - c.extended  # 测试用, 小于10行
+...
+
